@@ -1,0 +1,1 @@
+var Datatypes= require("sequelize").DataTypes;
